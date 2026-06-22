@@ -21,3 +21,7 @@ Create an interactive sales dashboard using Excel.
 
 ## Author
 Osman Ahmed Saad
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
