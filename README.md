@@ -1,23 +1,23 @@
-# SCT_DA_1
+# Superstore Sales Dashboard
 
-## SkillCraft Technology Data Analyst Internship
+## Objective
+Create an interactive sales dashboard using Excel.
 
-### Task 1: Excel Sales Dashboard
-
-This project analyzes Superstore Sales data using Microsoft Excel.
-
-### Features
-- Total Sales KPI
-- Top Category KPI
-- Top Region KPI
-- Sales by Category Chart
-- Sales by Region Chart
-- Sales Trend Analysis
-
-### Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Charts
+- Pivot Charts
+- Dashboard Design
 
-### Author
+## KPIs
+- Total Sales
+- Top Category
+- Top Region
+
+## Visualizations
+- Sales by Category
+- Sales by Region
+- Monthly Sales Trend
+
+## Author
 Osman Ahmed Saad
